@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SuperHeroesBase</string>
+    
+    <string name="hello_super_hero">Hello %1$S</string>
+    <string name="super_hero_image">Super Hero Image</string>
+    <string name="text_example">text example</string>
+    <string name="publisher">by %1$S</string>
+
+
+    <string name="biography_title">Biography</string>
+    <string name="biography_publisher_title">Publisher</string>
+    <string name="biography_full_name_title">Full Name</string>
+    <string name="biography_alignment_title">Alignment</string>
+    <string name="biography_place_of_birth_title">Place Of Birth</string>
+    <string name="biography_alter_egos_title">Alter Egos</string>
+    <string name="biography_first_appearance_title">First Appearance</string>
+
+    <string name="power_stats_title">Power Stats</string>
+    <string name="power_stats_power_title">Power</string>
+    <string name="power_stats_intelligence_title">Intelligence</string>
+    <string name="power_stats_speed_title">Speed</string>
+    <string name="power_stats_strength_title">Strength</string>
+    <string name="power_stats_durability_title">Durability</string>
+    <string name="power_stats_combat_title">Combat</string>
+
+    <string name="appearance_title">Appearance</string>
+    <string name="appearance_race_title">Race</string>
+    <string name="appearance_eye_color_title">Eye Color</string>
+    <string name="appearance_gender_title">Gender</string>
+    <string name="appearance_hair_color_title">Hair Color</string>
+
+    <string name="toolbar_back_button">Back to previous Screen</string>
+    <string name="unknown_value">Unknown</string>
+    <string name="expandable_default_text">Expandable</string>
+    <string name="expandable_icon_text">Expandable Icon</string>
+
+</resources>
